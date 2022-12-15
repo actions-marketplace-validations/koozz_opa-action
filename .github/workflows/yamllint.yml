@@ -16,4 +16,4 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v2
       - name: Run yamllint
-        uses: actionshub/yamllint@v1.0.0
+        uses: actionshub/yamllint@v1.1.1
